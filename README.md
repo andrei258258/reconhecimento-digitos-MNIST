@@ -1,4 +1,4 @@
-Digit Recognition 
+# reconhecimento-digitos-MNIST
 
 Usado para trabalho da disciplina de Aprendizado de Máquina do Programa de Pós-Graduação em Automação e Sistemas
 
